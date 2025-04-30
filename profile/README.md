@@ -1,29 +1,19 @@
-# Contribution Guidelines
+# Welcome to Lemonade Apps 🍋
 
-Thank you for your interest in contributing to Lemonade Apps! Please follow these guidelines to ensure a smooth collaboration:
+Welcome to the GitHub organization for Lemonade Apps where you'll find applications and examples for Lemonade.
 
-## 1. Respect Intellectual Property
-- **No proprietary or confidential information**: Ensure that your contributions can be created without any proprietary or sensitive knowledge. Do not include details tied to any company's internal processes or code names.
+## 🌟 What We Do
 
-## 2. Open-Source Licenses
+At Lemonade, we focus on:
+- Developing open-source tools and libraries.
+- Creating scalable and user-friendly applications.
+- Empowering developers with cutting-edge technology.
 
-- Use **only approved open-source licenses**. Approved licenses for this repository can be found [here](https://github.com/lemonade-apps/.github/blob/approved_licenses.md).
-- Before submitting, verify your contribution complies with these licensing standards.
-- If you have questions or would like an additional license to be considered, please open an issue.
+## 📂 Repositories
 
-## 3. Neutral Content
+Explore our repositories to find projects that interest you. Contributions are always welcome!
 
-- Keep all contributions **neutral and unbiased**. Avoid comparing technologies or companies. Aim for objective and inclusive language.
+## 🤝 Contributing
+We love collaboration! Check out our [contributing guidelines](CONTRIBUTING.md) to get started.
 
-## 4. Quality Standards
-
-- Ensure your code is **well-documented**, **error-free**, and adheres to repository coding standards.
-- Follow established formatting guidelines, including:
-  - Commenting on key code segments for clarity.
-  - Adopting consistent naming conventions and indentation.
-
-## 6. Submission Process
-
-- NEED TO ADD
-
-Thank you for contributing and helping us maintain a welcoming and professional environment!
+Thank you for visiting Lemonade! Let's build something amazing together. 🍋
