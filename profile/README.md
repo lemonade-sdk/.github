@@ -1,4 +1,4 @@
-# Welcome to Lemonade Apps 🍋
+# Welcome to the Lemonade SDK Project 🍋
 
 Welcome to the GitHub organization for Lemonade Apps where you'll find applications and examples for Lemonade.
 
