@@ -1,6 +1,6 @@
 # Welcome to the Lemonade SDK Project 🍋
 
-Welcome to the GitHub organization for Lemonade Apps where you'll find applications and examples for Lemonade.
+Welcome to the GitHub organization for the Lemonade SDK where you'll find source, applications, and examples for Lemonade.
 
 ## 🌟 What We Do
 
