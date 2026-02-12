@@ -1,19 +1,8 @@
-# Welcome to the Lemonade SDK Project 🍋
+# Welcome to Lemonade 🍋
 
-Welcome to the GitHub organization for the Lemonade SDK where you'll find source, applications, and examples for Lemonade.
+Our mission is to accelerate the awesomeness of the AI PC software ecosystem from engines to apps.
 
-## 🌟 What We Do
-
-At Lemonade, we focus on:
-- Developing open-source tools and libraries.
-- Creating scalable and user-friendly applications.
-- Empowering developers with cutting-edge technology.
-
-## 📂 Repositories
-
-Explore our repositories to find projects that interest you. Contributions are always welcome!
-
-## 🤝 Contributing
-We love collaboration! Check out our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-Thank you for visiting Lemonade! Let's build something amazing together. 🍋
+- [Lemonade Server](https://github.com/lemonade-sdk/lemonade) is the flagship repo that ties everything together.
+- [llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) is our build system for llama.cpp ROCm that uses TheRock.
+- [marketplace](https://github.com/lemonade-sdk/marketplace) is where you can submit apps for inclusion on the Lemonade app and website.
+- [lemonade-eval](https://github.com/lemonade-sdk/lemonade-eval) is a benchmarking and accuracy evaluation client for Lemonade Server.
